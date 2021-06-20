@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mustafasenay
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning html5,css and java
+- 🌱 I’m currently learning html5,css and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mustafasenayy@hotmail.com
 
