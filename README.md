@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mustafasenay
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning html5,css and javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mustafasenayy@hotmail.com
+- 📫 How to reach me https://github.com/mustafasenay
 
 <!---
 mustafasenay/mustafasenay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
