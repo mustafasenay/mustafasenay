@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in İstanbul
-* 🖥️  See my portfolio at [My Portfolio](http://github.com/mustafasenay?tab=repositories&q=&type=public&language=&sort=)
+* 🖥️  See my portfolio at [My Portfolio](https://resume-mustafa-senay.vercel.app/)
 * ✉️  You can contact me at [mustafasenayy@hotmail.com](mailto:mustafasenayy@hotmail.com)
 * 🧠  I'm learning Vuejs
 
